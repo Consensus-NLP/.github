@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://consensus.app">
-    <img src="https://raw.githubusercontent.com/Consensus-NLP/.github/main/profile/cover.png" alt="Consensus: the AI search engine for research" />
+    <img src="cover.png" alt="Consensus: the AI search engine for research" />
   </a>
 </p>
 
