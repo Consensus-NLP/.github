@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://consensus.app">
-    <img src="cover.png" alt="Consensus: the AI search engine for research" />
+    <img src="cover.png" alt="Consensus: research starts here" width="100%" />
   </a>
 </p>
 
