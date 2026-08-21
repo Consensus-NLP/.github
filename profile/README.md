@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://consensus.app">
+    <img src="https://raw.githubusercontent.com/Consensus-NLP/.github/main/profile/cover.png" alt="Consensus: the AI search engine for research" />
+  </a>
+</p>
+
 **[Consensus](https://consensus.app) is the AI operating system for researchers.** Our AI search engine and reference manager are used by millions of researchers at the world's top institutions, with every answer grounded in 220M+ peer-reviewed papers.
 
 Search, save, cite, build: one place to do serious research, with a native API and MCP underneath.
